@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         // 현재 표시된 Toast 취소
         if (System.currentTimeMillis() <= backKeyPressedTime + 2000) {
             finish();
-            toast.cancel();
+            toast.cancel();dddfdfdfdvfd
         }
 
     }
